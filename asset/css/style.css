@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+.nav{
+    width: 100%;
+    float: left;
+    padding: 20px 0;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 22px;
+    margin: 0 0 0 37px;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 50%;
+    float: left;
+    padding: 12px 0 0 0;
+}
+.menu{
+    width: 50%;
+    float: right;
+}
+.main{
+    width: 60%;
+    margin: auto;
+    padding: 55px 0;
+}
+.main h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 47px;
+    font-weight: 600;
+}
+.main p{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 31px 100px;
+}
+.main div img{
+    width: 100%;
+}
+.main h1 span{
+    color: #0099ff;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.left h1{
+    color: tomato;
+    text-align: right;
+    font-size: 45px;
+}
+.left p{
+    text-align: right;
+    color: black;
+}
+.right{
+    width: 30%;
+    text-align: left;
+    float: left;
+    font-size: 22px;
+    margin-left: 41px;
+    line-height: 55px;
+}
+.section4{
+    width: 100%;
+    margin: 40px 0;
+}
+}
+.in{
+    width: 100%;
+}
+.box1 {
+    width: 30%;
+    float: left;
+    color: gray;
+    background-color: #FDEBED;
+    margin-right: 30px;
+    padding: 22px 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.box2 {
+    width: 30%;
+    float: left;
+    color: gray;
+    background-color: #EBF9F4;
+    margin-right: 30px;
+    padding: 9px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.box3 {
+    width: 30%;
+    float: left;
+    color: gray;
+    background-color: #FFF7E8;
+    margin-right: 30px;
+    padding: 25px 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.section4 h1 {
+    font-size: 22px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+
+}
+.section4 p{
+    padding: 18px 12px;
+    line-height: 25px;
+}
+.footer{
+    width: 100%;
+    padding: 20px;
+    background-color: #008AFF;
+    text-align: center;
+    margin-top: 35px;
+    font-size: 14px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
